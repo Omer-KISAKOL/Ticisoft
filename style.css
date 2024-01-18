@@ -1,0 +1,86 @@
+body {
+    overflow-x: hidden;
+    font-family: Gilroy, Roboto;
+}
+nav{
+    padding: 50px 0px;
+    border-bottom: 1px solid rgba(255,255,255,.2);
+}
+/*Navbar*/
+.nav-item, .dropdown-toggle{
+    font-size: 17px;
+}
+
+/*Dropdown show*/
+.show {
+    opacity: 1;
+    filter: blur(0);
+    transform: translate(0);
+}
+.menu:hover{
+    display: block;
+}
+
+/*Color*/
+.bg_green{
+    background-color: #27e18c;
+}
+.bg_orange{
+    background-color: #ff6720;
+}
+
+.bg_header{
+    background-color: #0a0d2a;
+}
+
+.orange_blur{
+    position: absolute;
+    left: -30%;
+    top: -500px;
+    filter: blur(50px);
+    pointer-events: none;
+    z-index: 2;
+}
+
+/*Button*/
+
+.btn1{
+    position: relative;
+    padding: 13px 15px 13px 20px;
+    font-size: 18px;
+    display: inline-flex;
+    align-items: center;
+    border: 2px solid #27e18c;
+    color: white;
+}
+.btn2{
+    position: relative;
+    padding: 13px 15px 13px 20px;
+    font-size: 18px;
+    display: inline-flex;
+    align-items: center;
+    border: 2px solid #ff6720;
+    color: white;
+}
+
+.btn1:hover{
+    border: 2px solid #27e18c;
+    color: #27e18c;
+}
+
+.btn2:hover{
+    border: 2px solid #ff6720;
+    color: #ff6720;
+}
+
+.meter{
+    position: initial;
+    width: 25px;
+    height: 25px;
+
+}
+
+/*Logo*/
+.logo_1{
+    padding-left: 70px;
+}

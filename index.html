@@ -7,16 +7,86 @@
     <title>Document</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
 </head>
 <body>
 
-    <header class=" bg-danger">
-        <nav class="nav row align-items-center text-center">
-            <a class="col-3" href="javascript:void(0)">
-                <img  src="assets/logo.png" alt="logo">
+    <header class="bg_header">
+
+        <div class="orange_blur">
+            <svg xmlns="http://www.w3.org/2000/svg" width="804.823" height="875.82" viewBox="0 0 804.823 875.82">
+            <path id="Vector" d="M301.652.024C380.464-1.851,405.28,108.1,447.263,174.822c28.789,45.755,52.408,91.671,55.988,145.611,3.9,58.785,3.316,121.807-35.284,166.314C427.331,533.6,362.9,543.117,301.652,552.885c-78.515,12.521-167.028,46.248-229.425-3.027C7.386,498.651-12.432,400.664,7.3,320.433c17.254-70.149,106.633-85.647,155.505-138.846C216.39,123.26,222.471,1.907,301.652.024Z" transform="translate(150 150)" fill="rgba(255,103,32,0.45)"></path>
+        </svg>
+        </div>
+
+        <nav class="nav navbar-expand-lg row align-items-center">
+
+            <a class="col-4 " href="javascript:void(0)">
+                <img class="logo_1" src="assets/logo.png" alt="logo">
             </a>
 
+            <ul class="navbar-nav  col-5  align-items-center justify-content-center justify-content-evenly">
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="javascript:void(0)"><b>ANASAYFA</b></a>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <button class="btn text-white dropdown-toggle" id="dropdownMenuButton1" data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                       <b>ÜRÜNLER</b>
+                    </button>
+                    <ul class="dropdown-menu menu" aria-labelledby="dropdownMenuButton1">
+                        <li><a href="javascript:void(0)">Ürün</a></li>
+                        <li><a href="javascript:void(0)">Ürün</a></li>
+                        <li><a href="javascript:void(0)">Ürün</a></li>
+                    </ul>
+                </li>
+
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="javascript:void(0)"><b>BLOG</b></a>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <button class="btn text-white dropdown-toggle" id="dropdownMenuButton2" data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                        <b>KURUMSAL</b>
+                    </button>
+                    <ul class="dropdown-menu menu " aria-labelledby="dropdownMenuButton2">
+                        <li><a href="javascript:void(0)">Ürün</a></li>
+                        <li><a href="javascript:void(0)">Ürün</a></li>
+                        <li><a href="javascript:void(0)">Ürün</a></li>
+                    </ul>
+                </li>
+
+            </ul>
+
+            <div class="col-3 ">
+                <a class="btn btn1 rounded-2 bg_green" href="javascript:void(0)">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="me-2" width="14" height="12.293" viewBox="0 0 14 12.293">
+                        <path id="Path_19027" data-name="Path 19027" d="M11.356,3.438,13.6,7.331H16v1.4h-.817l-.53,6.358a.7.7,0,0,1-.7.642H4.044a.7.7,0,0,1-.7-.642L2.816,8.731H2v-1.4H4.4L6.644,3.438l1.212.7L6.012,7.331h5.975L10.144,4.138l1.212-.7Zm2.422,5.293H4.221l.467,5.6h8.623ZM9.7,10.131v2.8H8.3v-2.8Zm-2.8,0v2.8H5.5v-2.8Zm5.6,0v2.8H11.1v-2.8Z" transform="translate(-2 -3.438)" fill="currentColor"></path>
+                    </svg>
+                    Sepetim
+                    <div class=" meter rounded-circle ms-3 ">0</div>
+                </a>
+                <a class="btn btn2 rounded-2 bg_orange ms-4" href="javascript:void(0)">Bize Ulaş!
+                    <svg xmlns="http://www.w3.org/2000/svg" class="ms-3" width="12" height="11.667" viewBox="0 0 12 11.667">
+                        <path id="Path_19031" data-name="Path 19031" d="M13.129,9.306,9.106,5.283l1.061-1.061L16,10.055l-5.833,5.834L9.106,14.828l4.023-4.023H4v-1.5Z" transform="translate(-4 -4.222)" fill="currentColor"></path>
+                    </svg>
+                </a>
+            </div>
+
         </nav>
+
+        <div>
+            <ul>
+                <li><a href="javascript:void(0)">Ürün</a></li>
+                <li><a href="javascript:void(0)">Ürün</a></li>
+                <li><a href="javascript:void(0)">Ürün</a></li>
+            </ul>
+        </div>
     </header>
 
 </body>
