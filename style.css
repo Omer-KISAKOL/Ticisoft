@@ -1134,6 +1134,82 @@ a{
 }
 
 
+/*İLETİŞİM*/
+.contact {
+    transform: translateY(15%);
+}
+.contact-card {
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.contact-card-top {
+    font-size: 18px;
+    background: #ff6720;
+    padding: 20px;
+    font-weight: 600;
+    color: white;
+}
+.contact-card-content {
+    padding: 1rem 34px;
+}
+.contact-title {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #0a0d2a;
+    margin: 13px 0;
+}
+.contact-title:first-child {
+    margin-top: 0;
+}
+.input-wrapper {
+    position: relative;
+    width: 100%;
+}
+.contact-card .input {
+    padding: 20px 20px 20px 47px;
+}
+.contact-card .input-icon {
+    left: 20px;
+    color: #d0d8e8;
+}
+.intl-tel-input {
+    width: 100%;
+    position: relative;
+    display: inline-block;
+}
+.contact-title {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #0a0d2a;
+    margin: 13px 0;
+}
+.contact-card .input {
+    padding: 20px 20px 20px 47px;
+}
+.contact-card .btn {
+    width: 100%;
+    margin-top: 25px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.contact-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    color: #0a0d2a;
+    margin: 1.5rem 0;
+}
+.contact-item-info {
+    max-width: 184px;
+}
+.contact-item-title {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+
 
 
 
@@ -1247,6 +1323,10 @@ a{
     }
 }
 @media screen and (max-width: 991px) {
+    .contact {
+        transform: translateY(0);
+        padding: 1rem 0;
+    }
     .ts-hero-banner {
         margin: 0;
         margin-bottom: 2rem;
