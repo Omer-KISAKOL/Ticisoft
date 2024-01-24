@@ -339,12 +339,14 @@ span{
     color: rgba(36, 42, 53, 0.86);
     transition: .3s color ease,.3s background ease,.3s transform ease;
     border-radius: 8px;
-    padding: 26px 0;
+    padding: 26px 1px;
+    border: 1px solid #e8eaec;
 }
 ._info_card_item:hover{
     background: #ff6720;
     color: #fff;
     transform: translateY(-20px);
+    border: none;
 }
 ._info_card_item1{
     font-size: 18px;

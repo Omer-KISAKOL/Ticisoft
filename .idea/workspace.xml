@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a11069a5-f11b-496d-838d-d3b86cc71593" name="Changes" comment="pages">
-      <change afterPath="$PROJECT_DIR$/blogs/yazi1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogs/yazi2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogs/yazi3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogs/yazi4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogs/yazi5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +50,9 @@
     "JavaScript Debug.iletisim.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
     "JavaScript Debug.sepetim.html.executor": "Run",
+    "JavaScript Debug.yazi3.html.executor": "Run",
+    "JavaScript Debug.yazi4.html.executor": "Run",
+    "JavaScript Debug.yazi5.html.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -73,6 +68,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ticisoft\blogs" />
       <recent name="D:\Ticisoft\js" />
       <recent name="D:\Ticisoft\css" />
     </key>
@@ -125,7 +121,7 @@
       <workItem from="1705918354619" duration="21253000" />
       <workItem from="1706014010408" duration="3813000" />
       <workItem from="1706091486963" duration="5310000" />
-      <workItem from="1706097088551" duration="7032000" />
+      <workItem from="1706097088551" duration="7357000" />
     </task>
     <task id="LOCAL-00001" summary="index.html">
       <option name="closed" value="true" />
@@ -223,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706101035852</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="pages">
+      <option name="closed" value="true" />
+      <created>1706107664838</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706107664838</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
