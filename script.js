@@ -154,3 +154,28 @@ class simpleRating{
         }
     }
 }
+
+var rt = document.querySelector(".copy-text")
+    , ot = document.querySelector(".copy-button");
+rt && ot && ot.addEventListener("click", ()=>{
+        navigator.clipboard.writeText(rt.innerText)
+    }
+);
+var ya = document.querySelector(".js-reduce-button")
+    , Ea = document.querySelector(".js-plus-button")
+    , Ta = document.querySelectorAll(".js-font");
+Ta.forEach(e=>{
+        if (e) {
+            let t = Number(window.getComputedStyle(e).fontSize.split("px")[0]);
+            console.log(t),
+                ya?.addEventListener("click", ()=>{
+                        e.style.fontSize = `${t -= 2}px`
+                    }
+                ),
+                Ea?.addEventListener("click", ()=>{
+                        e.style.fontSize = `${t += 2}px`
+                    }
+                )
+        }
+    }
+);
