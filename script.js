@@ -78,6 +78,9 @@ $(document).ready(function(){
             1150:{
                 items:3
             },
+            2000:{
+                items:4
+            },
 
         }
     });});
