@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a11069a5-f11b-496d-838d-d3b86cc71593" name="Changes" comment="pages">
-      <change afterPath="$PROJECT_DIR$/iletisim.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sepetim.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iletisim.html" beforeDir="false" afterPath="$PROJECT_DIR$/iletisim.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -51,6 +52,7 @@
     "JavaScript Debug.hizmet.html.executor": "Run",
     "JavaScript Debug.iletisim.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.sepetim.html.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -64,11 +66,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JavaScript Debug.iletisim.html">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ticisoft\js" />
+      <recent name="D:\Ticisoft\css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.sepetim.html">
     <configuration name="cerez.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ticisoft/cerez.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="hakkimizda.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ticisoft/hakkimizda.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="hizmet.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ticisoft/hizmet.html" useBuiltInWebServerPort="true">
@@ -80,13 +85,16 @@
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ticisoft/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="sepetim.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ticisoft/sepetim.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.iletisim.html" />
+        <item itemvalue="JavaScript Debug.sepetim.html" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.iletisim.html" />
         <item itemvalue="JavaScript Debug.cerez.html" />
         <item itemvalue="JavaScript Debug.hizmet.html" />
-        <item itemvalue="JavaScript Debug.hakkimizda.html" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +118,8 @@
       <workItem from="1705782008419" duration="9348000" />
       <workItem from="1705815601545" duration="21147000" />
       <workItem from="1705918354619" duration="21253000" />
-      <workItem from="1706014010408" duration="3743000" />
+      <workItem from="1706014010408" duration="3813000" />
+      <workItem from="1706091486963" duration="4318000" />
     </task>
     <task id="LOCAL-00001" summary="index.html">
       <option name="closed" value="true" />
@@ -184,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705965438330</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="pages">
+      <option name="closed" value="true" />
+      <created>1706017825367</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706017825367</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
