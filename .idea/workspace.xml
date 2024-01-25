@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a11069a5-f11b-496d-838d-d3b86cc71593" name="Changes" comment="pages">
-      <change afterPath="$PROJECT_DIR$/assets/0619673e6024a2440ff898a15a0c251d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/800f304ec96e03336514951e877bb065.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/86cf6b5593411985dc8e2cea27a41de3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/c68e747cff784568691ebf2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urun1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urun2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urun3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/referans.html" beforeDir="false" afterPath="$PROJECT_DIR$/referans.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urun1.html" beforeDir="false" afterPath="$PROJECT_DIR$/urun1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +126,7 @@
       <workItem from="1706014010408" duration="3813000" />
       <workItem from="1706091486963" duration="5310000" />
       <workItem from="1706097088551" duration="9526000" />
-      <workItem from="1706177039307" duration="3392000" />
+      <workItem from="1706177039307" duration="6922000" />
     </task>
     <task id="LOCAL-00001" summary="index.html">
       <option name="closed" value="true" />
@@ -264,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706178143299</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="pages">
+      <option name="closed" value="true" />
+      <created>1706180722582</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1706180722582</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
