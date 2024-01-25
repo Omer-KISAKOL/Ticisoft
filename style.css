@@ -1788,6 +1788,12 @@ input:disabled {
     height: 195px;
     background: rgba(0,0,0,0.6);
 }
+.scripthoverinfo:hover {
+    opacity: 1;
+    position: absolute;
+    width: 255px;
+    height: 160px;
+}
 .scripthoverinfo a {
     color: #fff;
     background: none;
