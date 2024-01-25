@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a11069a5-f11b-496d-838d-d3b86cc71593" name="Changes" comment="pages" />
+    <list default="true" id="a11069a5-f11b-496d-838d-d3b86cc71593" name="Changes" comment="pages">
+      <change afterPath="$PROJECT_DIR$/assets/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/169380629.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/1782129920.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/1860368067.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/1866968740.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/1938830170.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/20671045.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/2084143046.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/2126673341.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/238335600.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/262865639.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/781172472.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/9155974.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/page-title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style-urunler.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urun1_a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +69,7 @@
     "JavaScript Debug.referans.html.executor": "Run",
     "JavaScript Debug.sepetim.html.executor": "Run",
     "JavaScript Debug.urun1.html.executor": "Run",
+    "JavaScript Debug.urun1_a.html.executor": "Run",
     "JavaScript Debug.yazi3.html.executor": "Run",
     "JavaScript Debug.yazi4.html.executor": "Run",
     "JavaScript Debug.yazi5.html.executor": "Run",
@@ -68,19 +88,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ticisoft" />
       <recent name="D:\Ticisoft\blogs" />
       <recent name="D:\Ticisoft\js" />
       <recent name="D:\Ticisoft\css" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.urun1.html">
+  <component name="RunManager" selected="JavaScript Debug.urun1_a.html">
     <configuration name="referans.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ticisoft/referans.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="urun1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ticisoft/urun1.html" useBuiltInWebServerPort="true">
+    <configuration name="urun1_a.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ticisoft/urun1_a.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="yazi3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ticisoft/blogs/yazi3.html" useBuiltInWebServerPort="true">
+    <configuration name="urun1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ticisoft/urun1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="yazi4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ticisoft/blogs/yazi4.html" useBuiltInWebServerPort="true">
@@ -91,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.urun1_a.html" />
         <item itemvalue="JavaScript Debug.urun1.html" />
         <item itemvalue="JavaScript Debug.referans.html" />
         <item itemvalue="JavaScript Debug.yazi5.html" />
         <item itemvalue="JavaScript Debug.yazi4.html" />
-        <item itemvalue="JavaScript Debug.yazi3.html" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +143,7 @@
       <workItem from="1706014010408" duration="3813000" />
       <workItem from="1706091486963" duration="5310000" />
       <workItem from="1706097088551" duration="9526000" />
-      <workItem from="1706177039307" duration="7311000" />
+      <workItem from="1706177039307" duration="13411000" />
     </task>
     <task id="LOCAL-00001" summary="index.html">
       <option name="closed" value="true" />
@@ -268,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706184327288</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="pages">
+      <option name="closed" value="true" />
+      <created>1706184405676</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1706184405676</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
