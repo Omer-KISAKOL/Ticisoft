@@ -2143,7 +2143,10 @@ input:disabled {
     transition: .3s color ease,.3s background ease;
     border: 1px solid transparent;
 }
-
+.btn10:hover{
+    color: white;
+    background-color: rgb(0, 187, 101);
+}
 
 
 

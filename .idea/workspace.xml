@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a11069a5-f11b-496d-838d-d3b86cc71593" name="Changes" comment="pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iletisim.html" beforeDir="false" afterPath="$PROJECT_DIR$/iletisim.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urun1.html" beforeDir="false" afterPath="$PROJECT_DIR$/urun1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,35 +43,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;JavaScript Debug.blog.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.cerez.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.hakkimizda.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.hizmet.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.iletisim.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.referans.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.sepetim.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.urun1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.urun1_a.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.yazi3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.yazi4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.yazi5.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Ticisoft&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JavaScript Debug.blog.html.executor": "Run",
+    "JavaScript Debug.cerez.html.executor": "Run",
+    "JavaScript Debug.hakkimizda.html.executor": "Run",
+    "JavaScript Debug.hizmet.html.executor": "Run",
+    "JavaScript Debug.iletisim.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.referans.html.executor": "Run",
+    "JavaScript Debug.sepetim.html.executor": "Run",
+    "JavaScript Debug.urun1.html.executor": "Run",
+    "JavaScript Debug.urun1_a.html.executor": "Run",
+    "JavaScript Debug.yazi3.html.executor": "Run",
+    "JavaScript Debug.yazi4.html.executor": "Run",
+    "JavaScript Debug.yazi5.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Ticisoft",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Ticisoft" />
@@ -130,7 +131,8 @@
       <workItem from="1706097088551" duration="9526000" />
       <workItem from="1706177039307" duration="14482000" />
       <workItem from="1706268155798" duration="111000" />
-      <workItem from="1706347536457" duration="1327000" />
+      <workItem from="1706347536457" duration="1518000" />
+      <workItem from="1706602145588" duration="2289000" />
     </task>
     <task id="LOCAL-00001" summary="index.html">
       <option name="closed" value="true" />
@@ -308,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706268242086</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="pages">
+      <option name="closed" value="true" />
+      <created>1706349016256</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1706349016256</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
