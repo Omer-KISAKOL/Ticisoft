@@ -2252,7 +2252,7 @@ input:disabled {
         overflow-y: hidden;
     }
     .think-right2{
-        overflow-x: scroll;
+        overflow-x: hidden;
         overflow-y: hidden;
         margin-top: 50px;
         display: grid!important;
