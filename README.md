@@ -1,3 +1,3 @@
 Ticisoft Web site
 
-Ticisoft URL: https://omer-kisakol.github.io/Ticisoft/
+Ticisoft URL: https://omer-kisakol.github.io/Ticisoft
