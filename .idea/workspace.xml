@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a11069a5-f11b-496d-838d-d3b86cc71593" name="Changes" comment="pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,14 +22,12 @@
     &quot;assignee&quot;: &quot;Omer-KISAKOL&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="03c1fbb0-b2fe-4f53-9784-950bbc5ed434" />
-        <option name="url" value="https://github.com/Omer-KISAKOL/Ticisoft.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Omer-KISAKOL/Ticisoft.git&quot;,
+    &quot;accountId&quot;: &quot;623732fb-fe14-4d8a-9263-f2e0706936d9&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -59,14 +57,17 @@
     &quot;JavaScript Debug.yazi5.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Ticisoft&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Ticisoft&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -104,6 +105,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -133,6 +141,27 @@
       <workItem from="1706602145588" duration="2289000" />
       <workItem from="1706808015326" duration="5203000" />
       <workItem from="1706819278984" duration="19000" />
+      <workItem from="1706819310713" duration="23000" />
+      <workItem from="1707597240631" duration="167000" />
+      <workItem from="1707597638651" duration="122000" />
+      <workItem from="1707597765861" duration="49000" />
+      <workItem from="1707600446555" duration="20000" />
+      <workItem from="1707600472212" duration="22000" />
+      <workItem from="1707600501104" duration="42000" />
+      <workItem from="1707600550813" duration="14000" />
+      <workItem from="1707600875148" duration="12000" />
+      <workItem from="1707600892231" duration="30000" />
+      <workItem from="1708193238086" duration="65000" />
+      <workItem from="1708193343622" duration="165000" />
+      <workItem from="1708193522048" duration="101000" />
+      <workItem from="1708573147217" duration="3047000" />
+      <workItem from="1708582028675" duration="4000" />
+      <workItem from="1709709305741" duration="612000" />
+      <workItem from="1710073061429" duration="24000" />
+      <workItem from="1710716559707" duration="2071000" />
+      <workItem from="1710888578135" duration="1533000" />
+      <workItem from="1712259170232" duration="2061000" />
+      <workItem from="1712272860587" duration="65000" />
     </task>
     <task id="LOCAL-00001" summary="index.html">
       <option name="closed" value="true" />
@@ -334,7 +363,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706813917211</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="pages">
+      <option name="closed" value="true" />
+      <created>1706819324252</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1706819324252</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
